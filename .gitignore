@@ -1,0 +1,7 @@
+mysql/conf/*
+!mysql/conf/my.cnf
+
+mysql/init/*
+!mysql/init/schema.sql
+
+log/mysql
