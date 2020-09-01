@@ -5,3 +5,5 @@ mysql/init/*
 !mysql/init/schema.sql
 
 log/mysql
+
+mysql/data/*
